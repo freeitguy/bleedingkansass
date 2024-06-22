@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Shop &#8211; BleedingKansASS.com</title>
+	<atom:link href="/shop/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 09 Sep 2022 17:15:26 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/08/cropped-transparantBlood-32x32.png</url>
+	<title>Shop &#8211; BleedingKansASS.com</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Prairie Fire Cheese</title>
+		<link>/product/prairie-fire-cheese/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 03 Aug 2021 16:41:45 +0000</pubDate>
+				<guid isPermaLink="false">/product/product-eight/</guid>
+
+					<description><![CDATA[Just as the name suggest. Fiery hot cheese sauce.]]></description>
+										<content:encoded><![CDATA[<p>Mix of hot peppers, onions, tomatoes, and cheese. This sauce will have you screaming for more.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Hell Fire Red &#8211; COMING SOON</title>
+		<link>/product/product-seven/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 03 Aug 2021 16:41:45 +0000</pubDate>
+				<guid isPermaLink="false">/product/product-seven/</guid>
+
+					<description><![CDATA[Our red sauce is red hot.]]></description>
+										<content:encoded><![CDATA[<p>Your product page needs to address any potential concerns or hesitations your potential buyer might have. Will these pants fit? How long is the battery life? Can I return this product? Are sizes accurate?</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Good Ol&#8217; Green &#8211; COMING SOON</title>
+		<link>/product/product-six/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 03 Aug 2021 16:41:45 +0000</pubDate>
+				<guid isPermaLink="false">/product/product-six/</guid>
+
+					<description><![CDATA[Find creative ways to provide as much information as possible to properly inform the shopper without overwhelming them with words.]]></description>
+										<content:encoded><![CDATA[<p>Your product page needs to address any potential concerns or hesitations your potential buyer might have. Will these pants fit? How long is the battery life? Can I return this product? Are sizes accurate?</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cayenne Tortillas &#8211; COMING SOON</title>
+		<link>/product/cayenne-tortillas/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 03 Aug 2021 16:41:45 +0000</pubDate>
+				<guid isPermaLink="false">/product/product-five/</guid>
+
+					<description><![CDATA[Hand made 10 inch cayenne spiced flour tortillas. 10 pack.ore.]]></description>
+										<content:encoded><![CDATA[<p>Hand made 10 inch cayenne spiced flour tortillas. 10 pack.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Merchandise &#8211; COMING SOON</title>
+		<link>/product/product-four/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 03 Aug 2021 16:41:45 +0000</pubDate>
+				<guid isPermaLink="false">/product/product-four/</guid>
+
+					<description><![CDATA[Find creative ways to provide as much information as possible to properly inform the shopper without overwhelming them with words.]]></description>
+										<content:encoded><![CDATA[<p>Your product page needs to address any potential concerns or hesitations your potential buyer might have. Will these pants fit? How long is the battery life? Can I return this product? Are sizes accurate?</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
